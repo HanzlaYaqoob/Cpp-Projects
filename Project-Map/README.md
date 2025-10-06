@@ -4,5 +4,5 @@
 
 ## Still in progress :-
 
-![Map Preview](<ScreenShots/Screenshot(7).png>)
-![Road Names](<ScreenShots/Screenshot(8).png>)
+![Map Preview](<./ScreenShots/Screenshot(7).png>)
+![Road Names](<./ScreenShots/Screenshot(8).png>)
